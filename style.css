@@ -273,9 +273,7 @@ color: #B9B9B9;
 
 /* responsive for Mobile view */
 @media only screen and (max-width:687px){
-main{
-    overflow: hidden;
-}
+
     .first-section{
         flex-direction: column;
     }
